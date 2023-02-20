@@ -63,6 +63,6 @@ empurrar => *git push origin master*
 
 **CONFLITOS**
 
-comando *"git pull origin master"*
+comando *"git pull origin master"* puxa o repositório remoto
 
-TRACKED OU UNTRACKED
+comando "rm -f .git/index.lock" exclui index.lock quando da erro
