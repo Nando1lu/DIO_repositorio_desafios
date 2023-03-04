@@ -6,7 +6,7 @@
 - ***Controle de versão*** : via GitHub.
 - ***Principais benefícios*** : Evitar o provisionamento manualmente e gerenciamento de servidores, sistemas operacionais, armazenamento e ect... Economizando tempo e padronizando as ações.
 
-![img_1](.\img\img_1.png)
+<img src=".\img\img_1.png" alt="" style="zoom: 200%;" />
 
 ###      Definições:
 
