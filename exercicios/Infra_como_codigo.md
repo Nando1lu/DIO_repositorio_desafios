@@ -6,7 +6,7 @@
 - ***Controle de versão*** : via GitHub.
 - ***Principais benefícios*** : Evitar o provisionamento manualmente e gerenciamento de servidores, sistemas operacionais, armazenamento e ect... Economizando tempo e padronizando as ações.
 
-<img src="C:\Users\Luiz Fernando\Desktop\img_1.png" alt="img_1" style="zoom:80%;" />
+![img_1](.\img\img_1.png)
 
 ###      Definições:
 
@@ -101,4 +101,4 @@ root@servidor:/# ./nome_arquivo.sh
 
 ### **Resultado**
 
-<img src="C:\Users\Luiz Fernando\Desktop\Captura de tela 2023-03-04 160839.png" alt="Captura de tela 2023-03-04 160839" style="zoom: 200%;" />
+<img src=".\img\Captura de tela 2023-03-04 160839.png" alt="Captura de tela 2023-03-04 160839" style="zoom: 200%;" />
